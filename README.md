@@ -1,1 +1,1 @@
-# helpfulnerd-website
+This is the source code repository for my small business website.  While the website is obviously intended for public consumption, the source code for the website isn't particularly intended for public consumption (by humans, not web browsers) but since the only way for you to see the website is for a server to send the source code to your browser anyways there's no good reason at all to make this private.  So enjoy.  If you learn something here, feel free to re-use it for your own website.
